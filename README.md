@@ -101,5 +101,3 @@ npm run test:coverage
 ## 📌 Notes
 
 This repository is focused on **learning and experimentation**, so you may find multiple approaches to similar problems as I explore best practices.
-
----
